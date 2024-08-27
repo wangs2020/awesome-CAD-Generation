@@ -1,7 +1,7 @@
 # awesome-CAD-Generation
 A curated list of CAD Generation papers, inspired by [Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D).
 
-<img src="./asset/list.png" width="696px">
+<img src="./asset/outline.PNG" width="696px">
 
 from [Geometric Deep Learning for Computer-Aided Design: A Survey](https://arxiv.org/abs/2402.17695).
 
